@@ -1,7 +1,9 @@
 # 🧠 Resume Parser to JSON Generator (Python Only)
 
-This project helps convert your resume (in text format) and job description into a structured **JSON resume** file. It is ideal for users who want to standardize resumes or integrate with resume platforms like Reactive Resume.
-
+A Python-only tool to convert plain-text resumes and job descriptions into structured JSON.
+Supports keywords and OpenAI for smart formatting.
+Easy to use with a single input file (prompt.txt).
+Ideal for use with resume platforms like Reactive Resume https://rxresu.me/. 
 ---
 
 ## 🚀 Features
