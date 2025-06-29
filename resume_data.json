@@ -1,0 +1,13 @@
+{
+        "basics": {},
+        "sections": {
+            "summary": {},
+            "experience": {"items": []},
+            "education": {"items": []},
+            "certifications": {"items": []},
+            "awards": {"items": []},
+            "projects": {"items": []},
+            "skills": {"items": []}
+        },
+        "metadata": {}
+    }

@@ -1,0 +1,46 @@
+Generate a resume in 500–600 words for a Lead Frontend Engineer (React) role in a regulated AI domain, using keywords and achievements relevant to the job description provided. Format per the below:
+
+a resume in 500- 600 words using the format below. Use the Job Description to choose relevant keywords and highlight achievements with numbers. Keep the tone natural, confident, and professional, don't repeat words frequently. Sprinkle this keyword all over the resume:
+
+<provide kewords here>
+Sections:
+1. Contact Information
+- Full name, phone number, email, LinkedIn, location
+
+2. Professional Summary (Max 50 words)
+- [X] years of experience in [industry/domain]
+- Skilled in [Skill 1], [Skill 2], [Skill 3] (from JD)
+- Delivered [quantifiable result] at [last company]
+- Add: “Open to relocation.”
+
+3. Work Experience (Max 350 words)
+- List jobs in reverse order (latest first)
+- For latest job: 5–6 bullet points with results and keywords
+- For earlier jobs: 3–4 bullet points
+- For 20+ yrs exp: summarize old jobs in 1–2 bullet points
+- For freshers: highlight internships/projects/coursework
+
+4. Skills (Max 50 words)
+- List technical and soft skills (bullet or comma-separated)
+- Only use skills relevant to the JD
+
+5. Education (Max 50 words)
+- Degree, institute, location, dates (MM/YYYY)
+
+6. Certifications and Training (Max 50 words)
+- Mention certification name, org, and date
+- If trained (but not certified), write “[Skill] trained”
+
+7. Additional Sections (Optional, Max 50 words)
+- Awards, projects, volunteer work, etc. (only if relevant)
+
+Guidelines:
+- Do not exaggerate or use filler content
+- Use simple, human, and confident language
+- Keep formatting clean and ATS-friendly
+- Use numbers and real results wherever possible
+Must do: Before finalising, check grammar, punctuation, and tone. Make sure it reads naturally and professionally.
+
+<Pest your resume details here>
+Job Description:
+[Paste your job description here]
