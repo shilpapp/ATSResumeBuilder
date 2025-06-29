@@ -83,7 +83,7 @@ python resume_to_json.py
 This will generate:
 
 ```
-✅ Output: ats_resume_output.json
+✅ Output: resume_data_updated.json
 ```
 
 The file will be saved in your working directory and can be uploaded to resume tools like Reactive Resume.
@@ -92,7 +92,7 @@ The file will be saved in your working directory and can be uploaded to resume t
 
 ## 📂 Output
 
-- `ats_resume_output.json` — Structured resume in JSON format
+- `resume_data_updated.json` — Structured resume in JSON format
 
 ---
 
