@@ -77,7 +77,7 @@ The script will automatically extract and process each section.
 Run the Python script to parse and generate the JSON resume:
 
 ```bash
-python resume_to_json.py
+python resume_updater_script.py
 ```
 
 This will generate:
