@@ -96,6 +96,8 @@ The file will be saved in your working directory and can be uploaded to resume t
 
 ---
 
+Now your ATS Dynamic resume json ready to upload on https://rxresu.me/. 
+
 ## 🧑‍💻 Maintainer
 
 Created with ❤️ by **Shilpa Pendharkar**  
